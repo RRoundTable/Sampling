@@ -7,5 +7,5 @@ sampling tutorial code입니다.
 ## 2. Importance sampling
 
 
-## 3. MCMC sampling
+## 3. MCMC sampling : metropolis
 
